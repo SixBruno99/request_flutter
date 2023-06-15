@@ -34,11 +34,11 @@ class _HomePageState extends State<HomePage> {
           items: const [
             BottomNavigationBarItem(
               label: "PlaceHolder",
-              icon: Icon(Icons.list),
+              icon: Icon(Icons.code),
             ),
             BottomNavigationBarItem(
               label: "Products",
-              icon: Icon(Icons.production_quantity_limits),
+              icon: Icon(Icons.analytics_outlined),
             ),
           ]),
     );
